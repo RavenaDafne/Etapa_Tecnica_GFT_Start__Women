@@ -1,7 +1,7 @@
 # Etapa_Tecnica_GFT_Start__Women
 
  Informações
-* Processor Seletivo: 
+ Processor Seletivo: 
  - Etapa técnica - Java  /GFT START WOMEN 2022 
 
  - Candidata: Ravena Dafne Costa Carneiro
@@ -11,6 +11,6 @@ Ferramentas:
 
 📌 Intellij 11.0.14
 
-* Repostirio:
+Repostirio:
  - Clone:
 
