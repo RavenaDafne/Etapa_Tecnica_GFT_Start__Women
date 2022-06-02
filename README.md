@@ -1,6 +1,6 @@
 # Etapa_Tecnica_GFT_Start__Women
 
-* Informações
+ Informações
 * Processor Seletivo: 
  - Etapa técnica - Java  /GFT START WOMEN 2022 
 
